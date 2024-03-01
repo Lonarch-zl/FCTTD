@@ -4,7 +4,7 @@ This is a pytorch implementation of the paper 'FCTTD: Towards Fine-grained Coupl
 
 In short, FCTTD achieves fine-grained tensor decomposition of the fully connected layer of the CNN model, which is more compact than the Tucker decomposition structure, and achieves greater compression ratio and performance of the linear layer.
 
-![FCTTD](.\images\FCTTD.png)
+![FCTTD](https://github.com/Lonarch-zl/FCTTD/images/FCTTD.png)
 
 ## CNN architecture decomposed
 
@@ -24,7 +24,7 @@ Performance of the model decomposed by FCTTD method in cifar-10 data set. Rank r
 
 Experiments show that FCTTD has more advantages in compression ratio and accuracy than Tucker, TT and TR.
 
-![lab](.\images\lab.png)
+![lab](https://github.com/Lonarch-zl/FCTTD/images\lab.png)
 
 ## Contacts
 
